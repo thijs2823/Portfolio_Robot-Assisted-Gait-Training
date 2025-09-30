@@ -22,6 +22,23 @@ Parkinson’s disease is not curable. It was long assumed that slowing the disea
 In more advanced cases, such as when freezing of gait occurs, physiotherapists can offer training programs aimed at improving postural stability and gait patterns [11]. Therapy also focuses on “transfers,” i.e., functional movements such as standing up from a chair or turning over in bed [11]. Physiotherapy helps prevent reduced activity levels, fear of movement, falls, balance problems, freezing episodes, pain, and pressure ulcers. Examples of effective activities include swimming, yoga, treadmill walking, dancing, and boxing.
 Through an intake questionnaire, the specialized physiotherapist identifies the patient’s specific problems and priorities. Based on this, an individualized treatment plan is developed, which may include advice, education, exercises, and training. It is recommended that Parkinson’s patients visit a physiotherapist at least once or twice per week. A recent study from Radboud University Medical Center by Talebi et al. (2022) demonstrated that patients under the care of a specialized physiotherapist experienced 25% fewer bone fractures compared to those without specialized physiotherapy [12].
 
+___
+### About RAGT
+
+Different types of robots are used in robot-assisted gait training (RAGT). A primary distinction can be made between wearable robots and operational machines. In the case of operational machines, usually only a part of the body is connected to the device, typically an effector or muscle. The joints are left free to move independently, without being directly coupled to the robot. These devices are also referred to as end-effector machines (Figure 1a).
+
+In contrast, wearable robots connect the extremities entirely to the device, including both muscles and joints. In this case, the robot can fully determine the gait pattern. Such systems are also referred to as exoskeletons (Figure 1b).
+
+Wearable robots can be subdivided into portable and non-portable systems. Non-portable systems are fixed to a specific environment, whereas portable systems can be used autonomously. Wearable robots may also be categorized according to whether they are used in combination with a treadmill (treadmill-based systems) or without one (overground systems) [14]. Treadmill-based systems are often equipped with sensors or cameras that record patient movements for feedback purposes. In some cases, the patient may also wear a virtual reality (VR) headset, allowing the surrounding environment to be virtually modified.
+
+<img width="400" height="330" alt="image" src="https://github.com/user-attachments/assets/e40ec8c8-d61a-4023-9ac3-1d976c1fd222" />
+
+Figure 1. (a) Non-portable wearable robot, (b) operational machine or end-effector [35].
+
+### Mechanism Underlying the Effects of RAGT
+
+The precise mechanism behind the effects of robot-assisted gait training (RAGT) on patient stability is not yet fully understood. It is likely related to the enhancement of neuromuscular regulation during locomotor training [33]. This type of training targets motor function, thereby stimulating the central pattern generators (CPGs) in the spinal cord. As a result, muscle contraction and subsequent relaxation of the lower extremities are facilitated [34].
+___
 
 
 # 2. Robot-Assisted gait Training on mobility and independence in Parkinson’s patients
@@ -228,8 +245,10 @@ The number of patients with Parkinson’s disease is projected to almost triple 
 33. T. Toole, C. Maitland, E. Warren, M. Hubmann. "The effects of loading and unloading treadmill walking on balance, gait, fall risk, and daily function in Parkinsonism." *NeuroRehabilitation,* vol. 20, pp. 307–322, 2005.  
 34. A. Picelli, M. Capecci, M. Filippetti, V. Varalta. "Effects of robot-assisted gait training on postural instability in Parkinson's disease: a systematic review." *European Journal of Physical and Rehabilitation Medicine,* vol. 57, no. 3, pp. 472–477, 2021.  
 35. L. Koukolová. "Overview of the robotic rehabilitation systems for lower limbs." *Transfer inovácií,* pp. 107–111, 2015.
+36. REHA STIM MEDTEC. *Gait Trainer GT II.* [Online]. Available: [https://reha-stim.com/gt-ii/](https://reha-stim.com/gt-ii/). Accessed Jan. 21, 2023.  
 
 # About
 Written 03-02-2023
-36. REHA STIM MEDTEC. *Gait Trainer GT II.* [Online]. Available: [https://reha-stim.com/gt-ii/](https://reha-stim.com/gt-ii/). Accessed Jan. 21, 2023.  
+
+Sustainable Healthcare 
 
