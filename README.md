@@ -248,7 +248,8 @@ The number of patients with Parkinson’s disease is projected to almost triple 
 36. REHA STIM MEDTEC. *Gait Trainer GT II.* [Online]. Available: [https://reha-stim.com/gt-ii/](https://reha-stim.com/gt-ii/). Accessed Jan. 21, 2023.  
 
 # About
-Written 03-02-2023
+Written 03-02-2023<br>
+Course: Sustainable Healthcare Improvement
 
-Sustainable Healthcare 
+
 
