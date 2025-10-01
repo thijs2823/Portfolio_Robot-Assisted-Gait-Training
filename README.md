@@ -155,8 +155,8 @@ It is noteworthy that across all studies, the RAGT groups performed at least as 
 | Type / Stakeholder        | Healthcare Professionals                                         | Patients / Patient Organizations                                   | Insurers                                        | Government                                 |
 |---------------------------|------------------------------------------------------------------|-------------------------------------------------------------------|------------------------------------------------|-------------------------------------------|
 | 🔴 Barrier                | Lack of knowledge<br>Willingness                                   | Willingness<br>Interaction with physiotherapist                   | Cost of machine + maintenance                 | Cost of machine + maintenance             |
-| 🟡 To be determined       | Shortage of staff<br>Workload                                      | Personalized attention<br>Patient experience                       | Treatment costs<br>Required healthcare personnel | Treatment costs<br>Required healthcare personnel |
-| 🟢 Facilitator            | Specialization of healthcare and allied health professionals      | Safety<br>Access to physiotherapist                                 | —                                              | Fall prevention                           |
+| 🟡 To be determined       | Staff workload <br>Workload                                      | Personalized attention<br>Patient experience                       | Treatment costs<br>Required healthcare personnel | Treatment costs<br>Required healthcare personnel |
+| 🟢 Facilitator            | Specialization of healthcareSand allied health professionals      | Safety<br>Access to physiotherapist                                 | —                                              | Fall prevention                           |
 
 Table 2: Facilitating and hindering factors categorized by stakeholder. Red: hindering factor, yellow: yet to be determined whether this is a facilitating or hindering factor through an RCT, green: facilitating factor.
 
