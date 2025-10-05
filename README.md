@@ -269,7 +269,7 @@ Spina, S. (2020) argues that it is also important to measure fear of falling, ba
 From a financial perspective, differences in healthcare costs between Parkinson’s patients receiving conventional physiotherapy and those treated with RAGT should also be measured.
 
 
-### sample size estimates
+### Sample size estimates
 Our assumptions:
 - Two-sided α = 0.05
 - Independent two-sample comparison (RAGT vs Control)
