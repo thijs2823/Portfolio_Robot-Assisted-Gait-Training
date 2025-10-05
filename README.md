@@ -1,31 +1,32 @@
 # Parkinson's Disease and Robot-Assisted Gait Training (RAGT)
 
-# 1. Introduction
+## 1. Introduction
 
-### Parkinson’s disease
+#### Parkinson’s disease
 Parkinson’s disease has a profound impact on daily life, affecting the emotional state, independence, and social interactions of patients. It has been demonstrated that movement therapies play a crucial role in the treatment of Parkinson’s patients, as they help to reduce symptoms such as tremor, rigidity, and freezing of gait. Physiotherapy for people with Parkinson’s is both costly and labor-intensive. At present, not every patient has access to such therapy, as treatment is only partially covered by basic health insurance. In practice, patients may avoid physiotherapy altogether due to financial constraints.
 Parkinson’s disease is a progressive neurological disorder with varying degrees of severity and complexity. It differs from other neurological diseases primarily due to its characteristic motor decline, largely caused by the accumulation of Lewy bodies within neurons and the loss of dopaminergic neurons in the substantia nigra. The symptoms are diverse: patients may experience difficulties with walking, communication, and performing simple tasks. In addition to motor problems, non-motor symptoms such as depression, anxiety, disinhibition, and sleep disturbances are common. Patients may also struggle with eating, swallowing, and speaking. Postural instability, together with tremor, rigidity, and bradykinesia, is a hallmark of the disease. A particularly debilitating symptom is freezing of gait (FOG), in which patients suddenly “freeze” mid-step and remain immobile for seconds or even minutes. Unfortunately, FOG becomes more prevalent as the disease progresses [1]. The symptoms typically develop gradually, often beginning on one side of the body, significantly reducing the quality of life. Due to the motor  impairment, falls are common and can be severe. 70% of patients fall at least once per year, and 39% fall regularly. The consequences are substantial, including fractures, bruising, other injuries, hospitalizations, anxiety, and increased strain on the healthcare system [2]. Alongside pneumonia and other complications, falls are among the leading causes of death in people with Parkinson’s disease [3].
 Diagnosing Parkinson’s disease can be challenging, as no specific test exists. Diagnosis is based on medical history and neurological examination. The etiology of Parkinson’s disease remains unclear. Risk cannot be attributed solely to environmental factors; rather, the disease appears to result from a complex interaction between genetic predispositions and environmental exposures, which together influence multiple cellular processes [4]. Researchers are currently investigating environmental triggers, such as exposure to certain chemicals, as well as genetic factors. In addition, they are investigating how cellular mechanisms, such as the aggregation of the protein alpha-synuclein in neurons and dopamine deficiency impairing neural communication, contribute to neurodegeneration. Meanwhile, new therapeutic approaches are under development to delay, prevent, or even reverse disease progression.
 
 
 
-### Epidemiology
+#### Epidemiology
 After Alzheimer’s disease, Parkinson’s disease is the second most common neurodegenerative disorder worldwide. It affects approximately seven million people globally, including one million in the United States. In industrialized countries, the prevalence is about 0.3% of the general population [5]. Parkinson’s predominantly affects older adults, with prevalence ranging from 1% among individuals over 60 to 4% among those over 80. The average age of onset is around 60 years, although 5–10% of cases occur earlier, between ages 20 and 50 years. These early cases are classified as young-onset Parkinson’s disease. Men are affected more frequently than women, with a ratio of 3:2 [5]. Between 1990 and 2015, the number of Parkinson’s patients worldwide doubled; projections estimate that by 2040 the number will nearly triple to 14 million. This expected increase is often referred to as the “Parkinson’s pandemic” [6].
 In the Netherlands, the number of patients is also increasing, partly due to an aging population. In 2017, 48,620 people were diagnosed with Parkinson’s disease: 29,466 men and 19,245 women, according to the Dutch Central Bureau of Statistics (CBS). This corresponds to 3.38 per 1,000 men and 2.21 per 1,000 women, or about 286 patients per 100,000 inhabitants. By 2025, the number of patients is expected to rise to 75,000. Regional variation exists: the highest prevalence is in Limburg (341 patients per 100,000 inhabitants), while the lowest is in Flevoland (210 per 100,000) [7].
 
 
-### Treatment
+#### Treatment
 The current pharmacological approach to Parkinson’s disease focuses on alleviating symptoms. With the aid of medication, patients can move and walk more easily and experience fewer tremors. At present, the most effective drug for Parkinson’s disease is levodopa, a precursor of dopamine [8]. Unlike dopamine, levodopa is able to cross the blood–brain barrier. Once in the brain, it is enzymatically converted into dopamine. Because dopaminergic neurons in the substantia nigra are progressively lost, a dopamine deficiency develops. Levodopa can partly compensate for this deficit. A major drawback, however, is that the effectiveness of levodopa diminishes over time, resulting in reduced therapeutic benefit. The drug apomorphine can enhance levodopa’s effect and is prescribed when levodopa alone is no longer sufficient. Other drugs that may be prescribed in specific cases include dopamine agonists, MAO-B inhibitors, amantadine, and anticholinergics.
 For patients with severe disease, surgical interventions such as deep brain stimulation (DBS) may be considered. DBS involves implanting electrodes in motor-control regions of the brain, which deliver electrical pulses to improve motor function [1].
-In addition, various assistive devices exist to help patients cope with walking difficulties. Specially designed walkers can provide support and help overcome freezing episodes. Other aids include a seat cane, which allows patients to rest when needed, or indoor walking frames to improve safety at home. Since stair climbing can become difficult, stairlifts may also be installed, allowing patients to maintain independence and remain at home longer [1].
+In addition, various assistive devices exist to help patients cope with walking difficulties. Specially designed walkers can provide support and help overcome freezing episodes. Other aids include a seat cane, which allows patients to rest when needed, or indoor walking frames to improve safety at home. Since stair climbing can become difficult, stairlifts may also be installed, allowing patients to maintain independence and remain at home longer [1]. <p>
 Parkinson’s disease is not curable. It was long assumed that slowing the disease was impossible, but there is now evidence that physical exercise has a neuroprotective effect, supporting brain health and reducing functional decline [9]. The role of the general practitioner (GP) is to recognize, diagnose, and manage new symptoms or conditions related to Parkinson’s disease. When mobility issues arise, patients are typically referred to a (specialized) physiotherapist. Exercise therapy is recommended in most clinical guidelines, including those of the Dutch College of General Practitioners (NHG) [10]. According to the Royal Dutch Society for Physical Therapy (KNGF), it is advisable for patients to contact a physiotherapist as soon as possible after diagnosis for self-management support.
-In more advanced cases, such as when freezing of gait occurs, physiotherapists can offer training programs aimed at improving postural stability and gait patterns [11]. Therapy also focuses on “transfers,” i.e., functional movements such as standing up from a chair or turning over in bed [11]. Physiotherapy helps prevent reduced activity levels, fear of movement, falls, balance problems, freezing episodes, pain, and pressure ulcers. Examples of effective activities include swimming, yoga, treadmill walking, dancing, and boxing.
-Through an intake questionnaire, the specialized physiotherapist identifies the patient’s specific problems and priorities. Based on this, an individualized treatment plan is developed, which may include advice, education, exercises, and training. It is recommended that Parkinson’s patients visit a physiotherapist at least once or twice per week. A recent study from Radboud University Medical Center by Talebi et al. (2022) demonstrated that patients under the care of a specialized physiotherapist experienced 25% fewer bone fractures compared to those without specialized physiotherapy [12].
+In more advanced cases, such as when freezing of gait occurs, physiotherapists can offer training programs aimed at improving postural stability and gait patterns [11]. Therapy also focuses on “transfers,” i.e., functional movements such as standing up from a chair or turning over in bed [11]. Physiotherapy helps prevent reduced activity levels, fear of movement, falls, balance problems, freezing episodes, pain, and pressure ulcers. Examples of effective activities include swimming, yoga, treadmill walking, dancing, and boxing.<p>
+Through an intake questionnaire, the specialized physiotherapist identifies the patient’s specific problems and priorities. Based on this, an individualized treatment plan is developed, which may include advice, education, exercises, and training. It is recommended that Parkinson’s patients visit a physiotherapist at least once or twice per week. A recent study from Radboud University Medical Center by Talebi et al. (2022) demonstrated that patients under the care of a specialized physiotherapist experienced 25% fewer bone fractures compared to those without specialized physiotherapy [12].<p> 
+A relatively new treatment approach is the use of Robot-Assisted Gait Training (RAGT) in Parkinson’s patients. RAGT is a rehabilitation method in which robotic devices are used to support and guide the patient’s leg movements during walking exercises. The robot helps patients practice a correct and consistent gait pattern by partially assisting their movements.
 
 ___
-### About RAGT
+#### About RAGT
 
-Different types of robots are used in robot-assisted gait training (RAGT). A primary distinction can be made between wearable robots and operational machines. In the case of operational machines, usually only a part of the body is connected to the device, typically an effector or muscle. The joints are left free to move independently, without being directly coupled to the robot. These devices are also referred to as end-effector machines (Figure 1a).
+Different types of robots are used in robot-assisted gait training. A primary distinction can be made between wearable robots and operational machines. In the case of operational machines, usually only a part of the body is connected to the device, typically an effector or muscle. The joints are left free to move independently, without being directly coupled to the robot. These devices are also referred to as end-effector machines (Figure 1a).
 
 In contrast, wearable robots connect the extremities entirely to the device, including both muscles and joints. In this case, the robot can fully determine the gait pattern. Such systems are also referred to as exoskeletons (Figure 1b).
 
@@ -35,25 +36,25 @@ Wearable robots can be subdivided into portable and non-portable systems. Non-po
 
 Figure 1. (a) Non-portable wearable robot, (b) operational machine or end-effector [35].
 
-### Mechanism Underlying the Effects of RAGT
+#### Mechanism Underlying the Effects of RAGT
 
 The precise mechanism behind the effects of robot-assisted gait training (RAGT) on patient stability is not yet fully understood. It is likely related to the enhancement of neuromuscular regulation during locomotor training [33]. This type of training targets motor function, thereby stimulating the central pattern generators (CPGs) in the spinal cord. As a result, muscle contraction and subsequent relaxation of the lower extremities are facilitated [34].
 ___
 
 
-# 2. Robot-Assisted gait Training on mobility and independence in Parkinson’s patients
+## 2. Robot-Assisted gait Training on mobility and independence in Parkinson’s patients
 
-## PICO
+#### PICO
 
-**Question:** 
+**Research question:** 
 
-What is the effect of robot-assisted gait training (RAGT) on mobility and independence in patients with Parkinson’s disease compared to current treatment methods?
+What is the effect of robot-assisted gait training on mobility and independence in patients with Parkinson’s disease compared to current treatment methods?
 
 **PubMed search strategy:**
 
 ("Robotics" [mesh] OR robotics [tiab] OR mechanics [tiab] OR mechanization [tiab]) AND ("parkinson’s" [mesh] OR "parkinson’s" [tiab]) AND ("stability" [tiab] OR "independence" [tiab] OR "freedom" [tiab] OR "health" [tiab] OR "health" [mesh])
 
-## Study selection
+#### Study selection
 
 - 24 results identified  
   → 6 excluded based on title and/or abstract  
@@ -62,22 +63,20 @@ What is the effect of robot-assisted gait training (RAGT) on mobility and indepe
 - 4 studies included in the review
 
 
-## Overview of RAGT studies in parkinson’s disease
-
-
+#### Overview of RAGT studies in parkinson’s disease
 
 | Study | Design & n | Intervention | Comparison | Primary Outcomes | Results | Conclusion | Risk of Bias |
 |-------|------------|--------------|-------------|------------------|---------|------------|--------------|
-| **Cepecci (2019)** | RCT, n=96 | RAGT (end-effector, G-EO System) | Treadmill training | 6MWT, 10MWT, TUG, FOG-Q | Both groups improved; RAGT +18% vs treadmill +12%. Largest effect on FOG-Q (−20%). | No significant difference overall; possible added benefit of RAGT for patients with freezing of gait (FOG). | **Low risk** (robust randomization, allocation concealment, blinded assessment, complete data, no selective reporting) |
+| **Cepecci (2019)** | RCT, n=96 | RAGT (end-effector, G-EO System) | Treadmill training | 6MWT, 10MWT, TUG, FOG-Q | Both groups improved; RAGT +18% vs treadmill +12%. Largest effect on FOG-Q (−20%). | No significant difference overall; possible added benefit of RAGT for patients with FOG. | **Low risk** (robust randomization, allocation concealment, blinded assessment, complete data, no selective reporting) |
 | **Picelli (2012)** | RCT, n=60 | RAGT (GT1) | Treadmill & conventional physiotherapy | 10MWT, 6MWT | RAGT and treadmill groups both improved significantly vs physiotherapy; no difference between RAGT and treadmill. | RAGT equally effective as treadmill; both superior to conventional physiotherapy. | **Low risk** (clear randomization, blinded assessor, no dropouts, full reporting) |
 | **Gryfe (2022)** | RCT, n=41 | Exoskeleton (Keeogo Rehab™) + exercise | Exercise without exoskeleton | SCOPA-COG, 6MWT, balance, QoL | Significant improvement in cognition (p=0.014) and 6MWT (p=0.008). | Exoskeleton training promising for cognition and endurance; larger RCTs recommended. | **Moderate risk** (open-label, some dropouts, possible selection bias from motivated participants) |
 | **Carda (2012)** | RCT, n=30 | Lokomat (robot-assisted treadmill) | Treadmill training | 6MWT, 10MWT, TUG, UPDRS III | Both groups improved; treadmill showed slightly more durable/faster improvements. No significant differences. | RAGT not superior; treadmill may be more effective for sustained improvements. | **High risk** (small sample size, underpowered, potential attrition bias) |
 
-Table 1. Overview of inlcuded articles
+_Table 1._ Overview of inlcuded articles
 
-## Included studies on effect
+### Included studies on effect
 ___
-### Study 1 – Cepecci, M. (2019)
+#### Study 1 – Cepecci, M. (2019)
 **_Summary_**
 
 A randomized controlled trial (RCT) investigated the clinical effects of RAGT compared with conventional treadmill training in 96 patients with Parkinson’s disease [19]. Half received RAGT using the G-EO end-effector robot, while the other half performed treadmill walking. Both groups underwent 20 sessions of 45 minutes each.
@@ -91,7 +90,7 @@ Both groups showed significant improvements across all outcomes. Endurance and w
 
 Risk of bias was low. The sample size (n=96) provided sufficient power. Both groups improved, with no significant differences overall, but RAGT appeared more beneficial for patients with freezing of gait.
 ___
-### Study 2 – Picelli, A. (2012)
+#### Study 2 – Picelli, A. (2012)
 **_Summary_**
 
 This RCT compared RAGT, treadmill training, and conventional physiotherapy in 60 patients with mild-to-moderate Parkinson’s disease [20]. Patients received 12 sessions (45 min, 3x/week, 4 weeks).
@@ -108,7 +107,7 @@ No significant difference was found between RAGT and treadmill training on prima
 
 Risk of bias was low. The study shows that RAGT is not superior to treadmill training of equal intensity, but both are more effective than conventional physiotherapy.
 ___
-### Study 3 – Gryfe, P. (2022)
+#### Study 3 – Gryfe, P. (2022)
 **_Summary_**
 
 This RCT compared standard Parkinson’s treatment with treatment using a wearable exoskeleton (Keeogo Rehab™) [21]. Patients trained twice weekly for 8 weeks with aerobic, strength, and mobility exercises. The intervention group wore the exoskeleton during training.
@@ -122,7 +121,7 @@ Significant improvements were observed in cognition (SCOPA-COG, p=0.014) and end
 
 Risk of bias was moderate. The exoskeleton group showed significant cognitive and physical gains not present in controls. Authors recommend larger RCTs to assess long-term effects and potential disease-modifying impact.
 ___
-### Study 4 – Carda, M. (2012)
+#### Study 4 – Carda, M. (2012)
 **_Summary_**
 
 This RCT compared RAGT using the Lokomat (robotic exoskeleton attached to treadmill) with treadmill training in 60 patients [22]. Patients trained 30 min, 3x/week for 4 weeks.
@@ -138,7 +137,7 @@ ___
 
 
 
-## Assessment conclusion
+### Assessment conclusion
 
 We reviewed the selected studies to address our PICO question: *What is the effect of RAGT on the mobility and independence of patients with Parkinson’s disease compared to current standard treatment?*  
 
@@ -150,33 +149,33 @@ It is noteworthy that across all studies, the RAGT groups performed at least as 
 
 
 
-# 3. Barriers and facilitators of the innovation
+## 3. Barriers and facilitators of the innovation
 
 | Type / Stakeholder        | Healthcare Professionals                                         | Patients / Patient Organizations                                   | Insurers                                        | Government                                 |
 |---------------------------|------------------------------------------------------------------|-------------------------------------------------------------------|------------------------------------------------|-------------------------------------------|
-| 🔴 Barrier                | Lack of knowledge<br>Willingness                                   | Willingness<br>Interaction with physiotherapist                   | Cost of machine + maintenance                 | Cost of machine + maintenance             |
-| 🟡 To be determined       | Staff workload <br>Workload                                      | Personalized attention<br>Patient experience                       | Treatment costs<br>Required healthcare personnel | Treatment costs<br>Required healthcare personnel |
-| 🟢 Facilitator            | Specialization of healthcareSand allied health professionals      | Safety<br>Access to physiotherapist                                 | —                                              | Fall prevention                           |
+| 🔴 Barrier                | Lack of knowledge<br>Willingness                                   | Willingness<br>Less social interaction with physiotherapist     | Cost of machine + maintenance                 | Cost of machine + maintenance             |
+| 🟡 To be determined       | Workload                                                          | Personalized attention<br>Patient experience                     | Treatment costs<br>Required healthcare personnel | Treatment costs<br>Required healthcare personnel |
+| 🟢 Facilitator            | RAGT specialisation opportunities                                 | Safety<br>Access to physiotherapist                              | —                                              | Fall prevention                           |
 
-Table 2: Facilitating and hindering factors categorized by stakeholder. Red: hindering factor, yellow: yet to be determined whether this is a facilitating or hindering factor through an RCT, green: facilitating factor.
+_Table 2:_ Facilitating and hindering factors categorized by stakeholder. Red: hindering factor, yellow: yet to be determined whether this is a facilitating or hindering factor through an RCT, green: facilitating factor.
 
 
-## Important barriers and considerations for the implementation of RAGT
+### Important barriers and considerations for the implementation of RAGT
 
-### Cost of treatment and cost-effectiveness
+#### Cost of treatment and cost-effectiveness
 Convincing insurers and governmental bodies to support the implementation of Robot-Assisted Gait Training (RAGT) requires a multifaceted approach that demonstrates its effectiveness, cost-effectiveness, and benefits for patients. By engaging with healthcare providers, patient associations, and presenting strong arguments in favor of RAGT implementation, it becomes possible to persuade insurers and policymakers to invest in this form of neurorehabilitation and ensure accessibility for those who need it.
 Insurers will primarily assess both the clinical effectiveness of RAGT and its impact on overall healthcare costs. Governments, in turn, will consider its effectiveness in terms of patient outcomes, as well as its potential to reduce long-term healthcare expenditures. RAGT provides additional benefits, such as consistent and precise monitoring of patient progress and a reduced risk of injury.
 The Dutch government has explicitly expressed its intention to prioritize fall prevention in the coming years. Falls among older adults currently account for nearly €1 billion annually in healthcare costs in the Netherlands. According to the Dutch Healthcare Institute, individuals over 65 fall at least once per year on average [3]. Specific fall-prevention programs targeting Parkinson’s patients are urgently needed. Since exercise therapy has been shown to reduce fall risk, RAGT could play a pivotal role in this context. However, for this to be feasible, physiotherapy or mobility training must be included in the standard basic health insurance package for Parkinson’s patients, rather than being reimbursed only after the 21st session.
 At present, robot-assisted rehabilitation therapy is not widely available. While some rehabilitation centers already have access to robotic devices, this remains the exception rather than the rule. Broader implementation will therefore require significant investment in acquiring such equipment. Not all physiotherapy practices will have the financial means or physical space to accommodate (multiple) robots.
 
-### Patient acceptance
+#### Patient acceptance
 Parkinson’s patients currently receiving conventional physiotherapy may not immediately embrace a novel therapeutic modality. RAGT sessions differ in part from traditional physiotherapy, and this change may require adjustment. Nevertheless, with the projected rise in healthcare costs and the growing shortage of healthcare professionals, greater reliance on technology such as RAGT will become inevitable. RAGT has the potential to optimize efficiency: one physiotherapist could supervise several patients during robot-assisted training, whereas conventional gait training may require two therapists for a single patient. In the future, patients will increasingly be referred to specialized, centrally located rehabilitation centers capable of treating multiple Parkinson’s patients simultaneously. This implies that treatment efficiency will become an integral aspect of care. Patients may undergo therapy in group settings, supported by multiple therapists circulating between them. Progress will be digitally recorded, as RAGT devices provide integrated data collection systems.
 
-### Knowledge gaps among healthcare professionals
+#### Knowledge gaps among healthcare professionals
 The effectiveness of RAGT is not solely determined by the degree of robotic support during walking. Multiple parameters—such as body weight support, robotic assistance levels, and treadmill speed—interact with one another and influence treatment outcomes. The choice of parameter settings directly affects both the quality and intensity of training [23]. Additionally, treatment protocols—including total training hours, session frequency, and duration—play a decisive role in recovery [24]. Different combinations of training parameters and treatment protocols can significantly influence training intensity and overall therapeutic results. For this reason, it is crucial that therapists receive adequate training in order to make informed decisions regarding the appropriate parameter configurations and treatment protocols.
 
-# 4. Implementation Strategy
-### Costs of treatment; how to convince government and insurers
+## 4. Implementation Strategy
+#### Costs of treatment; how to convince government and insurers
 
 To investigate the cost-effectiveness of RAGT, we reviewed several studies: Carpino, G. (2018) examined the effectiveness and costs of robot-mediated lower limb rehabilitation. Different types of robots were assessed and compared with conventional therapy. The study evaluated the effectiveness of “operational machines” versus “wearable robots.” The authors concluded that RAGT using operational machines was the most cost-effective method for lower limb rehabilitation. Therapy with wearable robots was found to be 2.38 times more effective compared to conventional therapy, whereas therapy with operational machines was 2.45 times more effective compared to conventional therapy. Treatment costs were lowest for patients treated with operational machines, in comparison with both conventional therapy and wearable robot therapy.
 One explanation for the difference between robot types is that wearable robots are significantly more expensive to purchase than operational machines. For instance, a Lokomat® (wearable robot) costs approximately €330,000, while a Gait Trainer GT I (operational machine) costs around €30,000.
@@ -187,7 +186,7 @@ With RAGT, multiple patients can be treated simultaneously, and the robots are s
 Because robotic rehabilitation therapy is not yet widely available, initial implementation should focus on equipping specialized (centrally located) treatment centers, such as hospitals or rehabilitation clinics, with this technology. For example, Radboudumc currently operates a Parkinson and Movement Disorders Expertise Center, and Den Ooiman, a care facility of Sensire, provides rehabilitation for community-dwelling Parkinson’s patients. These institutions have the space and financial resources to invest in such equipment and to train staff in its use.
 
 
-### How to convince the patient
+#### How to convince the patient
 
 The healthcare sector is undergoing continuous change, often accompanied by new interventions and treatments. Many of these innovations contribute to improving patients’ quality of life and advancing the quality of care. However, some new interventions are complex, leading to limited patient knowledge and trust in the added value of such innovations.
 The primary goal of robot-assisted gait training (RAGT) is to improve the independence of patients with Parkinson’s disease. RAGT helps patients walk more effectively and perform daily tasks, thereby enhancing their sense of self-worth and confidence. By enabling patients to walk better—or relearn walking—they regain a sense of autonomy. This, in turn, reduces frustration and anxiety, which are common among Parkinson’s patients. Furthermore, patients are more likely to reach their rehabilitation goals sooner, which positively impacts mood and emotional well-being.
@@ -195,20 +194,104 @@ Fundarò C. et al. (2018) investigated the psychosocial impact of RAGT on patien
 To increase patient acceptance, it is essential to engage with Parkinson’s patient associations to provide information on RAGT and its potential impact. Feedback from patients should be actively sought, as they may contribute valuable suggestions to improve the intervention.
 Patients can be informed through educational leaflets available in general practitioner practices, hospitals, or nursing homes. Additionally, accessible online resources should be developed to highlight the benefits of RAGT. Transparency about the safety, effectiveness, and efficiency of RAGT is crucial during both the introduction and implementation phases. Continuous evaluation of RAGT should be carried out with relevant stakeholders to ensure credibility and trust.
 
-### How to train healthcare professionals
+#### How to train healthcare professionals
 
 At present, there is no optimized combination of training parameters and treatment protocols for RAGT. The most effective training strategy is likely to vary depending on the patient and the specific condition. Initially, an assessment should determine the patient’s baseline ability to walk, alongside data collection on balance and mobility. The patient should then discuss their goals and expectations with the therapist.
 The robot should be calibrated to provide walking assistance without fully taking over, ensuring that the patient’s muscles remain stimulated to generate their own strength. The therapist must closely monitor this process and adjust training parameters or treatment protocols as necessary to facilitate progress.
 Physiotherapists working in rehabilitation centers will need specialized training to correctly operate this technology. Dedicated training courses should therefore be developed. Moreover, healthcare professionals specializing in Parkinson’s care should receive education on RAGT, for example, through ParkinsonNet, healthcare providers can enroll in training to become a Parkinson nurse specialist. Incorporating education on robotic rehabilitation into such curricula would ensure that professionals are well-prepared to implement RAGT effectively.
 
-# 5. Monitoring implementation with effect and process evaluations
-Chapter available in PDF
+## 5. Monitoring implementation with effect and process evaluations
+
+Since the cost-effectiveness of RAGT in real-world clinical settings remains uncertain, and the experiences of various stakeholders have yet to be evaluated, we propose establishing a pilot study in the form of a RCT. An RCT provides a robust framework for assessing the effectiveness of RAGT. In this design, patients are randomly assigned to either a RAGT group or a control group receiving conventional therapy. This allows for a direct comparison of RAGT with traditional rehabilitation methods, thereby enabling a comprehensive evaluation of its clinical benefits and potential added value. The RCT will generate evidence regarding the efficacy and cost-effectiveness of RAGT, which is essential for convincing insurance companies and governmental bodies to support its implementation. Furthermore, it will provide insight into the feasibility and usability of RAGT in daily clinical practice—key factors that determine its broader acceptance among healthcare professionals. By assessing the usability of RAGT in real-world settings, potential barriers to implementation can be identified, and appropriate strategies can be developed to overcome them. During the evaluation process, stakeholders such as patient organizations, healthcare providers, and insurance funds will be actively consulted to ensure that multiple perspectives are incorporated [30].
+
+### Study Design
+
+| **Category** | **Description** |
+|---------------|-----------------|
+| **Inclusion Criteria** | • Clinically confirmed patients with idiopathic Parkinson’s disease.<br>• Hoehn & Yahr stage 2.5 or 3.<br>• Mini-Mental State Examination (MMSE) score ≥ 24.<br>• Receiving physiotherapy twice per week. |
+| **Exclusion Criteria** | • Severe dyskinesia or on–off fluctuations due to medication.<br>• Change of medication required during the study period.<br>• Sensory abnormalities in the lower limbs.<br>• Vestibular disorders or paroxysmal dizziness.<br>• Other neurological or orthopedic disorders involving the legs, or severe cardiovascular disease. |
+| **Consent and Ethical Approval** | All participants are outpatients who provide *informed consent* prior to participation. The study follows the Declaration of Helsinki and is approved by an Ethical Review Board. |
+| **Design Type** | Parallel-group RCT |
+| **Randomization** | Block randomization prior to testing, assigning participants into two groups using a block randomization schedule. |
+| **Allocation Concealment** | Concealment maintained during group assignment. |
+| **Blinding** | Therapists cannot be blinded due to the nature of treatment; however, outcome assessors are blinded to group allocation. |
+| **Primary Objective** | To evaluate the therapeutic effectiveness of RAGT in Parkinson’s disease. |
+| **Study Groups** | **Control Group (CG):** Receives conventional physiotherapy.<br>**Intervention Group (IG):** Receives RAGT. |
+| **Sample Size** | 200 participants in total (aged 18+, all genders). Approximately 100 participants per group (see sample size estimates). |
+| **Effect Parameters** | Six-Minute Walk Test (6MWD), 10-Meter Walk Test (10MW), Rapid Turns Test |
+| **Duration** | One year |
+
+_Table 3._ Study design and methodology of the RAGT clinical trial.
+
+Parkinson's patients typically receive physiotherapy 1 to 2 times per week. This study includes only patients who receive physiotherapy twice per week. The treatment provided to patients in the control group is based on European guidelines [31], consisting of balance and gait training conducted by a specialized physiotherapist. In the intervention group, conventional therapy will be replaced with exercises using Robot-Assisted Gait Training (RAGT). This study uses the Gait Trainer GT II robot, an operational machine. The device can lift the patient using an electric motor and features a touchscreen interface to adjust settings such as step length, therapy duration, speed, forward/backward direction, and body weight support. We use an operational machine-type robot because these are generally more cost-effective while maintaining similar effectiveness compared to wearable robots.
 
 
-# 6. Conclusion
+| Exercise               | Description                                           | Sessions (n) | Execution Control Group                  | Execution Intervention Group             |
+|------------------------|-------------------------------------------------------|-------------:|----------------------------------------|----------------------------------------|
+| Walking Training 1     | Patient walks a distance at a speed of 1 km/h        | 2            | Conventional treadmill training         | Gait Trainer GT II                      |
+| Walking Training 2     | Patient walks a distance at a speed of 1.5 km/h      | 1            | Conventional treadmill training         | Gait Trainer GT II                      |
+| Walking Training 3     | Patient walks a distance at a speed of 2 km/h        | 1            | Conventional treadmill training         | Gait Trainer GT II                      |
+
+_Tabel 4._ Exercise study scheme. After each session, a 2-minute break should be taken.
+
+
+We consider the study successful if RAGT performs at least as well as conventional therapy in treating mobility issues in Parkinson’s patients and if the cost per patient is lower. This will be evaluated by measuring various gait parameters and reviewing financial data (see Effect Evaluation). It is also important to assess how stakeholders experience the implementation of RAGT; this will be done through a process evaluation. This RCT aims to determine whether the effectiveness, costs, and practical execution of RAGT provide added value compared to conventional physiotherapy. The long-term goal of this treatment will only be achievable once sufficient equipment is available and healthcare staff are adequately trained. Full accessibility of RAGT to every Parkinson’s patient may take 5 to 10 years. Only when nearly all patients have access to RAGT can the objective be considered fully realized.
+
+
+### Implementation evaluation / process evaluation)
+
+The process evaluation will monitor the progress of the RCT and provide feedback to improve implementation. Key questions to address include:
+
+- What are the costs incurred?  
+- How many Parkinson’s patients currently have access to RAGT?  
+- What is the average distance patients must travel for RAGT treatment?  
+- How many therapist hours are spent per Parkinson’s patient?  
+- Have any bottlenecks or issues arisen during implementation, and how can they be improved?  
+- Is the project proceeding on schedule?  
+- How do stakeholders evaluate the implementation, including financial and time considerations?  
+- What are the opinions of patients and healthcare providers regarding the new treatment method?  
+
+Data will be collected through interviews with patients and other stakeholders and by reviewing administrative records from insurers and treatment centers.
+
+
+### Effect evaluation
+
+The effect evaluation will measure the outcomes of our treatment method to assess whether the goal of improved mobility has been achieved. Different outcome indicators will be used to evaluate RAGT’s impact on patient health, measured both before and after treatment. According to European guidelines [31], the following tests are suitable:
+
+**Gait Measurements:**
+
+- **Six-Minute Walk Test (6MWD):** Maximum distance covered in 6 minutes  
+- **10-Meter Walk Test (10MW):** Maximum walking speed over 10 meters  
+- **Rapid Turns Test:** Assesses freezing of gait; the patient performs repeated 360° turns from a stationary position  
+
+Spina, S. (2020) argues that it is also important to measure fear of falling, balance confidence, and other cognitive aspects of Parkinson’s patients, providing a comprehensive view of quality of life [32]. These should be assessed using validated questionnaires.  
+
+From a financial perspective, differences in healthcare costs between Parkinson’s patients receiving conventional physiotherapy and those treated with RAGT should also be measured.
+
+
+### sample size estimates
+Our assumptions:
+- Two-sided α = 0.05
+- Independent two-sample comparison (RAGT vs Control)
+- Calculations use the standard formula for difference in means
+- Results are rounded up to the next whole participant
+
+| Outcome                | Effect (Δ) | SD (σ) | Power | n per group | Total N |
+|------------------------|------------:|-------:|------:|------------:|--------:|
+| 6MWD (6-minute walk)   | 40 m       | 100 m  | 80%   | 98         | 196     |
+| 10MWT (10-meter walk)  | 0.2 m/s    | 0.5 m/s| 80%   | 100        | 200     |
+
+_Table 5._ For gait speed (10MWT) we used Δ = 0.2 m/s and σ = 0.20 m/s. For 6MWD we used Δ = 30 m and σ = 100 m.
+
+
+
+
+
+
+## 6. Conclusion
 The number of patients with Parkinson’s disease is projected to almost triple by 2040 compared to current levels, largely due to population aging. It is therefore essential that more patients gain access to exercise-based therapies, as these have been shown to significantly improve both physical and mental health. A more efficient and future-proof therapeutic approach is urgently needed to meet this growing demand. Robot-Assisted Gait Training has been identified as a promising therapeutic option; evidence suggests that RAGT is at least as effective, and in some cases superior—to conventional physiotherapy in improving gait and balance among Parkinson’s patients. Furthermore, RAGT appears to be a cost-effective treatment, offering additional advantages such as safety, alignment with national fall-prevention policies, and consistent monitoring of patient progress. Nonetheless, the large-scale implementation of RAGT poses several challenges. Key stakeholders, including governments, insurers, patients, and healthcare professionals—must be convinced of its cost-effectiveness, safety, and practical value. The acquisition and maintenance of robotic equipment require significant investment. While operational machines are generally less costly than wearable robots or exoskeletons, studies indicate that they can be equally or even more effective for lower-limb rehabilitation. Importantly, the effectiveness of RAGT depends on multiple adjustable gait parameters as well as the treatment protocol itself. Therapists must therefore receive comprehensive training to optimize parameter settings and ensure individualized treatment planning. Integrating RAGT into the education of specialized physiotherapists could support its successful adoption. Robotics should be regarded not as a replacement, but rather as a complement to conventional physiotherapy. Certain aspects of rehabilitation, such as transfer training, will continue to require traditional approaches. Collaboration with the patient remains essential in setting therapeutic goals and selecting appropriate exercises for RAGT. As RAGT is still a relatively novel intervention, existing research has not yet provided conclusive evidence regarding its effectiveness, feasibility, and acceptance by stakeholders. Pilot studies and large-scale clinical trials will therefore be necessary to evaluate its full potential. Current findings strongly suggest that robotics hold promise in improving mobility outcomes for patients with Parkinson’s disease, but further rigorous investigation is required before widespread implementation can be realized.
 
-# References
+## References
 
 1. NIH National Library of Medicine. *Parkinson's Disease.* [Online]. Available: [https://medlineplus.gov](https://medlineplus.gov). Accessed December 2022.  
 2. C. Moreau, B. Barton, D. Devos. "Virtually reducing fall risk in Parkinson disease." *Neurology,* vol. 89, no. 17, pp. 1762–1763, 2017.  
