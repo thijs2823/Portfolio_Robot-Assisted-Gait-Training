@@ -34,7 +34,7 @@ Wearable robots can be subdivided into portable and non-portable systems. Non-po
 
 <img width="400" height="330" alt="image" src="https://github.com/user-attachments/assets/e40ec8c8-d61a-4023-9ac3-1d976c1fd222" />
 
-Figure 1. (a) Non-portable wearable robot, (b) operational machine or end-effector [35].
+_Figure 1._ (a) Non-portable wearable robot, (b) operational machine or end-effector [35].
 
 #### Mechanism Underlying the Effects of RAGT
 
@@ -52,7 +52,7 @@ What is the effect of robot-assisted gait training on mobility and independence 
 
 **PubMed search strategy:**
 
-("Robotics" [mesh] OR robotics [tiab] OR mechanics [tiab] OR mechanization [tiab]) AND ("parkinson’s" [mesh] OR "parkinson’s" [tiab]) AND ("stability" [tiab] OR "independence" [tiab] OR "freedom" [tiab] OR "health" [tiab] OR "health" [mesh])
+("Robotics" [mesh] OR "robotics" [tiab] OR "mechanics" [tiab] OR "mechanization" [tiab]) AND ("parkinson’s" [mesh] OR "parkinson’s" [tiab]) AND ("stability" [tiab] OR "independence" [tiab] OR "freedom" [tiab] OR "health" [tiab] OR "health" [mesh])
 
 #### Study selection
 
@@ -77,61 +77,45 @@ _Table 1._ Overview of inlcuded articles
 ### Included studies on effect
 ___
 #### Study 1 – Cepecci, M. (2019)
-**_Summary_**
-
+**_Summary:_**
 A randomized controlled trial (RCT) investigated the clinical effects of RAGT compared with conventional treadmill training in 96 patients with Parkinson’s disease [19]. Half received RAGT using the G-EO end-effector robot, while the other half performed treadmill walking. Both groups underwent 20 sessions of 45 minutes each.
 Primary outcome measures: 6-Minute Walk Test (6MWT) [21], Timed Up and Go (TUG), 10-Meter Walk Test (10MWT), and the Freezing of Gait Questionnaire (FOG-Q).
 
-**_Results_**
-
+**_Results:_**
 Both groups showed significant improvements across all outcomes. Endurance and walking capacity increased by 18% in the RAGT group and by 12% in the treadmill group. Motor symptoms and quality of life improved by 17% and 15%, respectively. The largest effect was seen in FOG-Q scores, which decreased by 20% in both groups. Notably, patients with freezing episodes benefited more from RAGT.
 
-**_Assessment_**
-
+**_Assessment:_**
 Risk of bias was low. The sample size (n=96) provided sufficient power. Both groups improved, with no significant differences overall, but RAGT appeared more beneficial for patients with freezing of gait.
 ___
 #### Study 2 – Picelli, A. (2012)
-**_Summary_**
+**_Summary:_**
+This RCT compared RAGT, treadmill training, and conventional physiotherapy in 60 patients with mild-to-moderate Parkinson’s disease [20]. Patients received 12 sessions (45 min, 3x/week, 4 weeks). The study included three groups of Parkinson’s patients, each consisting of 20 participants: the RAGT group, who trained with the Gait Trainer GT I (end-effector); the treadmill group, who trained on a standard treadmill without body weight support; and the physiotherapy group, who received conventional gait training. Evaluations were conducted pre-treatment, post-treatment, and at 3-month follow-up, with the primary outcomes being the 10-Meter Walk Test (10MWT) and the 6-Minute Walk Test (6MWD).
 
-This RCT compared RAGT, treadmill training, and conventional physiotherapy in 60 patients with mild-to-moderate Parkinson’s disease [20]. Patients received 12 sessions (45 min, 3x/week, 4 weeks).
-•	RAGT group (n=20): Gait Trainer GT1 (end-effector).
-•	Treadmill group (n=20): treadmill without body weight support.
-•	Physiotherapy group (n=20): conventional gait training.
-Evaluations took place pre-treatment, post-treatment, and at 3-month follow-up. Primary outcomes: 10MWT, 6MWT.
-
-**_Results_**
-
+**_Results:_**
 No significant difference was found between RAGT and treadmill training on primary outcomes. Both groups, however, performed significantly better than the physiotherapy group, both immediately post-treatment and at 3-month follow-up.
 
-**_Assessment_**
-
+**_Assessment:_**
 Risk of bias was low. The study shows that RAGT is not superior to treadmill training of equal intensity, but both are more effective than conventional physiotherapy.
 ___
 #### Study 3 – Gryfe, P. (2022)
-**_Summary_**
-
+**_Summary:_**
 This RCT compared standard Parkinson’s treatment with treatment using a wearable exoskeleton (Keeogo Rehab™) [21]. Patients trained twice weekly for 8 weeks with aerobic, strength, and mobility exercises. The intervention group wore the exoskeleton during training.
 Outcomes: cognition, mood, gait speed, endurance, freezing, balance, and quality of life.
 
-**_Results_**
-
+**_Results:_**
 Significant improvements were observed in cognition (SCOPA-COG, p=0.014) and endurance (6MWT, p=0.008). The exoskeleton had positive effects on participation and cognition, and was found acceptable for patients and feasible for clinical use.
 
-**_Assessment_**
-
+**_Assessment:_**
 Risk of bias was moderate. The exoskeleton group showed significant cognitive and physical gains not present in controls. Authors recommend larger RCTs to assess long-term effects and potential disease-modifying impact.
 ___
 #### Study 4 – Carda, M. (2012)
-**_Summary_**
-
+**_Summary:_**
 This RCT compared RAGT using the Lokomat (robotic exoskeleton attached to treadmill) with treadmill training in 60 patients [22]. Patients trained 30 min, 3x/week for 4 weeks.
 
-**_Results_**
-
+**_Results:_**
 After 6 months, both groups showed significant improvements in 6MWT. Average distances: treadmill group 490.95 m (95% CI: 448.56–533.34, p=0.0006); Lokomat group 458.6 m (95% CI: 417.23–499.96, p=0.01). No significant differences were found between groups. Some secondary outcomes (10MWT, TUG) improved earlier in the treadmill group.
 
-**_Assessment_**
-
+**_Assessment:_**
 Risk of bias was high. Both interventions improved gait performance, but no superiority of RAGT was shown. Authors suggest larger studies may be needed to clarify differences.
 ___
 
@@ -157,7 +141,7 @@ It is noteworthy that across all studies, the RAGT groups performed at least as 
 | 🟡 To be determined       | Workload                                                          | Personalized attention<br>Patient experience                     | Treatment costs<br>Required healthcare personnel | Treatment costs<br>Required healthcare personnel |
 | 🟢 Facilitator            | RAGT specialisation opportunities                                 | Safety<br>Access to physiotherapist                              | —                                              | Fall prevention                           |
 
-_Table 2:_ Facilitating and hindering factors categorized by stakeholder. Red: hindering factor, yellow: yet to be determined whether this is a facilitating or hindering factor through an RCT, green: facilitating factor.
+_Table 2._ Facilitating and hindering factors categorized by stakeholder. Red: hindering factor, yellow: yet to be determined whether this is a facilitating or hindering factor through an RCT, green: facilitating factor.
 
 
 ### Important barriers and considerations for the implementation of RAGT
@@ -219,12 +203,15 @@ Since the cost-effectiveness of RAGT in real-world clinical settings remains unc
 | **Study Groups** | **Control Group (CG):** Receives conventional physiotherapy.<br>**Intervention Group (IG):** Receives RAGT. |
 | **Sample Size** | 200 participants in total (aged 18+, all genders). Approximately 100 participants per group (see sample size estimates). |
 | **Effect Parameters** | Six-Minute Walk Test (6MWD), 10-Meter Walk Test (10MW), Rapid Turns Test |
-| **Duration** | One year |
+| **Duration** | 0.5 years |
 
 _Table 3._ Study design and methodology of the RAGT clinical trial.
 
-Parkinson's patients typically receive physiotherapy 1 to 2 times per week. This study includes only patients who receive physiotherapy twice per week. The treatment provided to patients in the control group is based on European guidelines [31], consisting of balance and gait training conducted by a specialized physiotherapist. In the intervention group, conventional therapy will be replaced with exercises using Robot-Assisted Gait Training (RAGT). This study uses the Gait Trainer GT II robot, an operational machine. The device can lift the patient using an electric motor and features a touchscreen interface to adjust settings such as step length, therapy duration, speed, forward/backward direction, and body weight support. We use an operational machine-type robot because these are generally more cost-effective while maintaining similar effectiveness compared to wearable robots.
+Parkinson's patients typically receive physiotherapy 1 to 2 times per week. This study includes only patients who receive physiotherapy twice per week. The treatment provided to patients in the control group is based on European guidelines [31], consisting of balance and gait training conducted by a specialized physiotherapist. In the intervention group, conventional therapy will be replaced with exercises using Robot-Assisted Gait Training (RAGT). This study uses the Gait Trainer GT II robot, an operational machine (figure 2). The device can lift the patient using an electric motor and features a touchscreen interface to adjust settings such as step length, therapy duration, speed, forward/backward direction, and body weight support. We use an operational machine-type robot because these are generally more cost-effective while maintaining similar effectiveness compared to wearable robots.
 
+<img width="294" height="440" alt="image" src="https://github.com/user-attachments/assets/fba7f1f8-941a-4d7b-b60b-19836a795973" />
+
+_Figure 3._ Gait Trainer GT II [36].
 
 | Exercise               | Description                                           | Sessions (n) | Execution Control Group                  | Execution Intervention Group             |
 |------------------------|-------------------------------------------------------|-------------:|----------------------------------------|----------------------------------------|
