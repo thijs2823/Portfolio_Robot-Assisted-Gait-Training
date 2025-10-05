@@ -228,9 +228,9 @@ Parkinson's patients typically receive physiotherapy 1 to 2 times per week. This
 
 | Exercise               | Description                                           | Sessions (n) | Execution Control Group                  | Execution Intervention Group             |
 |------------------------|-------------------------------------------------------|-------------:|----------------------------------------|----------------------------------------|
-| Walking Training 1     | Patient walks a distance at a speed of 1 km/h        | 2            | Conventional (treadmill) training         | Gait Trainer GT II                      |
-| Walking Training 2     | Patient walks a distance at a speed of 1.5 km/h      | 1            | Conventional (treadmill) training         | Gait Trainer GT II                      |
-| Walking Training 3     | Patient walks a distance at a speed of 2 km/h        | 1            | Conventional (treadmill) training         | Gait Trainer GT II                      |
+| Walking Training 1     | Patient walks a distance at a speed of 1 km/h        | 2            | Conventional methods                    | Gait Trainer GT II                      |
+| Walking Training 2     | Patient walks a distance at a speed of 1.5 km/h      | 1            | Conventional methods                     | Gait Trainer GT II                      |
+| Walking Training 3     | Patient walks a distance at a speed of 2 km/h        | 1            | Conventional methods                     | Gait Trainer GT II                      |
 
 _Tabel 4._ Exercise study scheme. After each session, a 2-minute break should be taken.
 
