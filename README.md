@@ -137,9 +137,9 @@ It is noteworthy that across all studies, the RAGT groups performed at least as 
 
 | Type / Stakeholder        | Healthcare Professionals                                         | Patients / Patient Organizations                                   | Insurers                                        | Government                                 |
 |---------------------------|------------------------------------------------------------------|-------------------------------------------------------------------|------------------------------------------------|-------------------------------------------|
-| 🔴 Barrier                | Lack of knowledge<br>Willingness                                   | Willingness<br>Less social interaction with physiotherapist     | Cost of machine + maintenance                 | Cost of machine + maintenance             |
-| 🟡 To be determined       | Workload                                                          | Personalized attention<br>Patient experience                     | Treatment costs<br>Required healthcare personnel | Treatment costs<br>Required healthcare personnel |
-| 🟢 Facilitator            | RAGT specialisation opportunities                                 | Safety<br>Access to physiotherapist                              | —                                              | Fall prevention                           |
+| 🔴 Barrier                | Lack of knowledge,<br>Willingness                                   | Willingness,<br>Less social interaction with physiotherapist     | Cost of machine + maintenance                 | Cost of machine + maintenance             |
+| 🟡 To be determined       | Workload                                                          | Personalized attention,<br>Patient experience                     | Treatment costs,<br>Required healthcare personnel | Treatment costs,<br>Required healthcare personnel |
+| 🟢 Facilitator            | RAGT specialisation opportunities                                 | Safety,<br>Access to physiotherapist                              | —                                              | Fall prevention                           |
 
 _Table 2._ Facilitating and hindering factors categorized by stakeholder. Red: hindering factor, yellow: yet to be determined whether this is a facilitating or hindering factor through an RCT, green: facilitating factor.
 
@@ -225,7 +225,7 @@ _Tabel 4._ Exercise study scheme. After each session, a 2-minute break should be
 We consider the study successful if RAGT performs at least as well as conventional therapy in treating mobility issues in Parkinson’s patients and if the cost per patient is lower. This will be evaluated by measuring various gait parameters and reviewing financial data (see Effect Evaluation). It is also important to assess how stakeholders experience the implementation of RAGT; this will be done through a process evaluation. This RCT aims to determine whether the effectiveness, costs, and practical execution of RAGT provide added value compared to conventional physiotherapy. The long-term goal of this treatment will only be achievable once sufficient equipment is available and healthcare staff are adequately trained. Full accessibility of RAGT to every Parkinson’s patient may take 5 to 10 years. Only when nearly all patients have access to RAGT can the objective be considered fully realized.
 
 
-### Implementation evaluation / process evaluation)
+### Implementation evaluation / process evaluation
 
 The process evaluation will monitor the progress of the RCT and provide feedback to improve implementation. Key questions to address include:
 
